@@ -4,7 +4,7 @@ email: sudheerj4@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
 skills: "Software Engineer in Detroit, MI"
-baseurl: "sudheerjonnalagadda-portfolio"
+baseurl: "/sudheerjonnalagadda-portfolio"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
